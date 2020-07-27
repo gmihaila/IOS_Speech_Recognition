@@ -1,5 +1,7 @@
 # IOS Speech Recognition API Sample App
 
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 This is a sample app built in IOS that can do calls on the IOS Speech API engine.
 
 Code has been compiled to **Swift 5**.
