@@ -1,8 +1,7 @@
 # IOS Speech Recognition API Sample App
 
-[![Ask Me Anything !](https://img.shields.io/badge/Updated-July,2020-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![Ask Me Anything !](https://img.shields.io/badge/Updated-July,2020-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 This is a sample app built in IOS that can do calls on the IOS Speech API engine.
 
